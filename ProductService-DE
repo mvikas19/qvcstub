@@ -1,0 +1,251 @@
+{
+    "Product": {
+        "NodeType": "DETAIL",
+        "responsecodetext": "Product data retrieved.",
+        "ProductImageExtensions": {
+            "ProductImageExt": [
+                ".001",
+                ".002",
+                ".003",
+                ".004",
+                ".005",
+                ".006"
+            ]
+        },
+        "FreeFormMarketingText": "null",
+        "Availability": {
+            "OverallAvailabilityCode": "I",
+            "QTYLimit": "5",
+            "Available": "true",
+            "SizeCount": "9",
+            "ColorCount": "10",
+            "ProductAvailability": {
+                "colorCount": "10",
+                "sizeCount": "9",
+                "colorNamesShort": {
+                    "index_9": "WE",
+                    "index_8": "BK",
+                    "index_7": "RD",
+                    "index_6": "OR",
+                    "index_5": "LI",
+                    "index_4": "HIMBEERE",
+                    "index_3": "YW",
+                    "index_2": "DKL.BLAU",
+                    "index_1": "CO",
+                    "index_0": "BEIGE"
+                },
+                "colorNames": {
+                    "index_9": "WEISS",
+                    "index_8": "SCHWARZ",
+                    "index_7": "ROT",
+                    "index_6": "ORANGE",
+                    "index_5": "LILA",
+                    "index_4": "HIMBEERE",
+                    "index_3": "GELB",
+                    "index_2": "DKL.BLAU",
+                    "index_1": "COGNAC",
+                    "index_0": "BEIGE"
+                },
+                "sizeCodes": {
+                    "index_8": "43",
+                    "index_7": "42",
+                    "index_6": "41",
+                    "index_5": "40",
+                    "index_4": "39",
+                    "index_3": "38",
+                    "index_2": "37",
+                    "index_1": "36",
+                    "index_0": "35"
+                },
+                "availabilityArray": {
+                    "availability": [
+                        {
+                            "index_9": "I",
+                            "index_8": "I",
+                            "index_7": "I",
+                            "index_6": "I",
+                            "index_5": "I",
+                            "index_4": "N",
+                            "index_3": "I",
+                            "index_2": "N",
+                            "index_1": "I",
+                            "index_0": "N"
+                        },
+                        {
+                            "index_9": "I",
+                            "index_8": "I",
+                            "index_7": "I",
+                            "index_6": "I",
+                            "index_5": "I",
+                            "index_4": "N",
+                            "index_3": "I",
+                            "index_2": "N",
+                            "index_1": "I",
+                            "index_0": "N"
+                        },
+                        {
+                            "index_9": "I",
+                            "index_8": "I",
+                            "index_7": "I",
+                            "index_6": "I",
+                            "index_5": "I",
+                            "index_4": "N",
+                            "index_3": "I",
+                            "index_2": "N",
+                            "index_1": "I",
+                            "index_0": "N"
+                        },
+                        {
+                            "index_9": "I",
+                            "index_8": "I",
+                            "index_7": "I",
+                            "index_6": "I",
+                            "index_5": "I",
+                            "index_4": "N",
+                            "index_3": "I",
+                            "index_2": "N",
+                            "index_1": "I",
+                            "index_0": "N"
+                        },
+                        {
+                            "index_9": "I",
+                            "index_8": "I",
+                            "index_7": "I",
+                            "index_6": "I",
+                            "index_5": "I",
+                            "index_4": "N",
+                            "index_3": "I",
+                            "index_2": "N",
+                            "index_1": "I",
+                            "index_0": "N"
+                        },
+                        {
+                            "index_9": "I",
+                            "index_8": "I",
+                            "index_7": "I",
+                            "index_6": "I",
+                            "index_5": "I",
+                            "index_4": "W",
+                            "index_3": "I",
+                            "index_2": "N",
+                            "index_1": "I",
+                            "index_0": "N"
+                        },
+                        {
+                            "index_9": "I",
+                            "index_8": "I",
+                            "index_7": "I",
+                            "index_6": "I",
+                            "index_5": "I",
+                            "index_4": "W",
+                            "index_3": "I",
+                            "index_2": "N",
+                            "index_1": "I",
+                            "index_0": "W"
+                        },
+                        {
+                            "index_9": "I",
+                            "index_8": "I",
+                            "index_7": "I",
+                            "index_6": "I",
+                            "index_5": "I",
+                            "index_4": "N",
+                            "index_3": "I",
+                            "index_2": "N",
+                            "index_1": "I",
+                            "index_0": "N"
+                        },
+                        {
+                            "index_9": "I",
+                            "index_8": "I",
+                            "index_7": "I",
+                            "index_6": "I",
+                            "index_5": "I",
+                            "index_4": "N",
+                            "index_3": "I",
+                            "index_2": "N",
+                            "index_1": "I",
+                            "index_0": "N"
+                        }
+                    ]
+                },
+                "colorCodes": {
+                    "index_9": "WE",
+                    "index_8": "BK",
+                    "index_7": "RD",
+                    "index_6": "OR",
+                    "index_5": "LI",
+                    "index_4": "HIB",
+                    "index_3": "YW",
+                    "index_2": "DU",
+                    "index_1": "CO",
+                    "index_0": "BG"
+                },
+                "sizeNamesShort": {
+                    "index_8": "43",
+                    "index_7": "42",
+                    "index_6": "41",
+                    "index_5": "40",
+                    "index_4": "39",
+                    "index_3": "38",
+                    "index_2": "37",
+                    "index_1": "36",
+                    "index_0": "35"
+                },
+                "sizeNames": {
+                    "index_8": "GRÖSSE 43",
+                    "index_7": "GRÖSSE 42",
+                    "index_6": "GRÖSSE 41",
+                    "index_5": "GRÖSSE 40",
+                    "index_4": "GRÖSSE 39",
+                    "index_3": "GRÖSSE 38",
+                    "index_2": "GRÖSSE 37",
+                    "index_1": "GRÖSSE 36",
+                    "index_0": "GRÖSSE 35"
+                }
+            }
+        },
+        "PersonalizationTPL": "null",
+        "BulletText": "null",
+        "SpecialPriceHigh": "108.75",
+        "QvcPrice": "43.75",
+        "BrandId": "null",
+        "QvcPriceHigh": "43.75",
+        "RetailPrice": "0.00",
+        "ItemNumber": "296257",
+        "InternetSellingDescription": "<div class='tab-ipim'><link type=\"text/css\" href=\"/wcsstore/DE/content/css/tab_design.css\" rel=\"stylesheet\" /><link type=\"text/css\" href=\"/wcsstore/DE/content/css/qbox-min.css\" rel=\"stylesheet\" /><script type=\"text/javascript\" src=\"/wcsstore/DE/content/javascript/qbox-min.js\"></script><div class=\"tab-content-ipim\">Sie werden denken, Sie laufen barfu&#223;!<br />Dieser VITAFORM Damen-Mokassin mit Kontrastnaht sieht nicht nur modisch aus, sondern ist auch besonders komfortabel. Weiches, anschmiegsames <a class=\"qbox\" href='/wcsstore/DE/content/html/pim/glossary/glossary-hirschleder.html?width=640'>Hirschleder</a> sorgt f&#252;r viel Bequemlichkeit beim Laufen - so leicht und flexibel, dass Sie ihn kaum sp&#252;ren!<br /><strong>Details</strong><br /><ul> <li> Kontrastnaht </li> <li> Stretchband am oberen Abschluss </li> <li> Stretcheins&#228;tze am Blatt </li> <li> rutschfeste Profilsohle </li> <li> herausnehmbares Fu&#223;bett </li> <li> flexible Einfassung </li> </ul><br /><strong>Material</strong><br /><ul> <li> Obermaterial: echtes Hirschleder </li> <li> Futter: echtes Leder </li> <li> Decksohle: echtes Leder </li> <li> Laufsohle: Synthetik </li> </ul><br /></div></div>",
+        "moreInfoTabs": "null",
+        "videoInfo": {
+            "mediaId": {
+                "type": "showClip"
+            }
+        },
+        "SpecialPriceCode": "null",
+        "SpecialPrice": "39.77",
+        "canonicalUrl": "null",
+        "ZoomInd": "true",
+        "ShortDesc": "VITAFORM Damen-Mokassin Hirschleder Kontrastnaht flexible Einfassung",
+        "maxBasePrice": "19.89000",
+        "responsecodedescription": "SUCCESS_RETRIEVE_PRODUCT_DATA",
+        "Response": {
+            "Name": "MSG_OK",
+            "Code": "0"
+        },
+        "MarketingText": "null",
+        "ShippingHandlingCharge": "5.95",
+        "SalesDiv": "null",
+        "DefaultImageURLExt": ".001",
+        "specialPricePopUpURL": "null",
+        "BaseImageURL": "http://images-p.qvc.com/is/image/d2/2/57/296257",
+        "MQDPercent": "0.00000",
+        "SpecialPriceText": "null",
+        "ProductNbr": "296257",
+        "PrimaryClassCode": "14908573-183",
+        "ItemLimit": "5",
+        "responsecode": "5000",
+        "minBasePrice": "19.89000",
+        "MQDAmount": "0.00000",
+        "CurrentSellingPrice": "39.77",
+        "SwatchInd": "true"
+    }
+}
