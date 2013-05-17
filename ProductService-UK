@@ -1,123 +1,178 @@
 {
     "Product": {
-        "NodeType": "DETAIL",
-        "responsecodetext": "Product data retrieved.",
-        "ProductImageExtensions": "null",
-        "FreeFormMarketingText": "null",
-        "Availability": {
-            "OverallAvailabilityCode": "I",
-            "QTYLimit": "5",
-            "Available": "true",
-            "SizeCount": "14",
-            "ColorCount": "0",
-            "ProductAvailability": {
-                "colorCount": "0",
-                "sizeCount": "14",
-                "colorNamesShort": "null",
-                "colorNames": "null",
-                "sizeCodes": {
-                    "index_10": "9S",
-                    "index_9": "9R",
-                    "index_8": "9Q",
-                    "index_7": "9P",
-                    "index_6": "9O",
-                    "index_5": "9N",
-                    "index_4": "9M",
-                    "index_3": "9L",
-                    "index_2": "9K",
-                    "index_1": "9J",
-                    "index_0": "9I",
-                    "index_13": "9V",
-                    "index_12": "9U",
-                    "index_11": "9T"
-                },
-                "availabilityArray": {
-                    "availability": {
-                        "index_10": "I",
-                        "index_9": "I",
-                        "index_8": "I",
-                        "index_7": "I",
-                        "index_6": "I",
-                        "index_5": "W",
-                        "index_4": "I",
-                        "index_3": "I",
-                        "index_2": "W",
-                        "index_1": "W",
-                        "index_0": "W",
-                        "index_13": "W",
-                        "index_12": "I",
-                        "index_11": "I"
-                    }
-                },
-                "colorCodes": "null",
-                "sizeNamesShort": {
-                    "index_10": "9S",
-                    "index_9": "9R",
-                    "index_8": "9Q",
-                    "index_7": "9P",
-                    "index_6": "9O",
-                    "index_5": "9N",
-                    "index_4": "9M",
-                    "index_3": "9L",
-                    "index_2": "9K",
-                    "index_1": "9J",
-                    "index_0": "9I",
-                    "index_13": "9V",
-                    "index_12": "9U",
-                    "index_11": "9T"
-                },
-                "sizeNames": {
-                    "index_10": "SIZE S",
-                    "index_9": "SIZE R",
-                    "index_8": "SIZE Q",
-                    "index_7": "SIZE P",
-                    "index_6": "SIZE O",
-                    "index_5": "SIZE N",
-                    "index_4": "SIZE M",
-                    "index_3": "SIZE L",
-                    "index_2": "SIZE K",
-                    "index_1": "SIZE J",
-                    "index_0": "SIZE I",
-                    "index_13": "SIZE V",
-                    "index_12": "SIZE U",
-                    "index_11": "SIZE T"
-                }
-            }
-        },
-        "PersonalizationTPL": "null",
-        "BulletText": "null",
-        "SpecialPriceHigh": "15.43",
-        "QvcPrice": "15.43",
-        "BrandId": "null",
-        "QvcPriceHigh": "15.43",
-        "RetailPrice": "0.00",
-        "ItemNumber": "663565",
-        "InternetSellingDescription": "This is classic design with a twist: it's two rings that twist and fit together like one and feature a pear-cut Diamonique stone semi-bezel set at the centre. Considered to be the world's finest simulated diamond what better way to show off Diamonique than in a solitaire setting?  It comes in a Diamonique box for safekeeping.",
-        "videoInfo": "null",
-        "SpecialPriceCode": "IP",
-        "SpecialPrice": "15.43",
-        "canonicalUrl": "null",
-        "ZoomInd": "false",
-        "ShortDesc": "Diamonique 0.75 ct Tw Pear Cut Solitaire Ring Set Sterling Silver",
-        "responsecodedescription": "SUCCESS_RETRIEVE_PRODUCT_DATA",
-        "Response": {
-            "Name": "MSG_OK",
-            "Code": "0"
-        },
-        "MarketingText": "null",
-        "ShippingHandlingCharge": "2.45",
-        "SalesDiv": "null",
-        "DefaultImageURLExt": ".noImage",
-        "specialPricePopUpURL": "null",
-        "BaseImageURL": "http://images-p.qvc.com/is/image/u2/noI",
-        "MQDPercent": "0.00000",
-        "SpecialPriceText": "Introductory Price",
-        "ProductNbr": "663565",
-        "PrimaryClassCode": "null",
-        "ItemLimit": "5",
-        "responsecode": "5000",
-        "MQDAmount": "0.00000",
-        "CurrentSellingPrice": "15.43",
-        "SwatchInd": "false"
-    }
+    	"NodeType": "String",
+		"xsi:schemaLocation": "http://datatypes.qvc.com/GetProductService GetProductService.xsd",
+		"xmlns": "http://datatypes.qvc.com/GetProductService",
+		"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"ProductNbr": 590287,
+		"ShortDesc": "Mini Shop Die Cut Toppers Collection",
+		"QvcPrice": 40.00,
+		"MinBasePrice": 40.00,
+		"MaxBasePrice": 140.00,
+		"BasePriceText": "ml",
+		"QvcPriceHigh": 45.00,
+		"minVolumePrice": 5.00,
+		"maxVolumePrice": 7.50,
+		"volumePriceUnit": "Per ml",
+		"Availability": {
+			"Available": "True",
+			"OverallAvailabilityCode": "I",
+			"ColorCount": 2,
+			"SizeCount": 3,
+			"QTYLimit": 5,
+			"ProductAvailability": {
+				"sizeCount": 3,
+				"colorCount": 2,
+				"availabilityArray": {
+					"availability": [
+						{
+							"index_0": "I",
+							"price_0": 22.00,
+							"qvcPrice_0": 40.00,
+							"installAmount_0": 5.00,
+							"index_1": "I",
+							"price_1": 23.00,
+							"qvcPrice_1": 41.00,
+							"installAmount_1": 6.00
+						}, {
+							"index_0": "I",
+							"price_0": 24.00,
+							"qvcPrice_0": 42.00,
+							"installAmount_0": 7.00,
+							"index_1": "I",
+							"price_1": 25.00,
+							"qvcPrice_1": 43.00,
+							"installAmount_1": 8.00
+						}, {
+							"index_0": "I",
+							"price_0": 26.00,
+							"qvcPrice_0": 44.00,
+							"installAmount_0": 9.00,
+							"index_1": "I",
+							"price_1": 27.00,
+							"qvcPrice_1": 45.00,
+							"installAmount_1": 10.00
+						}
+					]
+				},
+				"sizeCodes": {
+					"index_0": 154,
+					"index_1": 671,
+					"index_2": 625
+				},
+				"colorCodes": {
+					"index_0": "BM5",
+					"index_1": "AK3"
+				},
+				"sizeNames": {
+					"index_0": "Small",
+					"index_1": "Medium",
+					"index_2": "Large"
+				},
+				"colorNames": {
+					"index_0": "Barely Pink",
+					"index_1": "Lilac Purple"
+				},
+				"colorNamesShort": {
+					"index_0": "BaPi",
+					"index_1": "LiPu"
+				},
+				"sizeNamesShort": {
+					"index_0": "S",
+					"index_1": "M",
+					"index_2": "L"
+				}
+			}
+		},
+		"AvgProductRating": 3.75,
+		"ReviewCount": 78,
+		"SpecialPrice": 22,
+		"SpecialPriceHigh": 27,
+		"SpecialPriceCode": "TSV",
+		"SpecialPriceText": "Todays Special value",
+		"specialPricePopUpURL": "www.qvc.com/specialPrice12345",
+		"MarketingText": "BestSellers,Top Product",
+		"StatusCode": "String",
+		"MQDAmount": 1.0,
+		"MQDPercent": 5,
+		"PrimaryClassCode": 12345,
+		"ItemNumber": 590287,
+		"RetailPrice": 30.00,
+		"ShippingHandlingCharge": 6.00,
+		"ItemLimit": 5,
+		"CreditTerms": 8,
+		"CreditTermsText": "easy payments",
+		"ProductImageExtensions": {
+			"ProductImageExt": [
+				".001", ".002", ".003"
+			]
+		},
+		"videoInfo": {
+			"mediaId": [
+				{
+					"type": "showClip",
+					"Text": "13012812.flv?startTime=2953&endTime=3580"
+				}, {
+					"type": "llShowClip",
+					"Text": "0d0e78a47c704c15bd1bdcb8adbc14c9"
+				}
+			]
+		},
+		"InternetSellingDescription": "Liquid Knit(R) fabric makes all of the difference in this wardrobe essential. With a fluid drape that skims the body, the V-neck shirt is both fashionable and flattering. From Susan Graver.",
+		"BulletText": {
+			"CData": "\r<li>Elbow length sleeves, straight bottom hem<li>XXS(00-0), XS(4), S(6-8), M(10-12), L(14-16), XL(18-20), 1X(18W-20W), 2X(22W-24W), 3X(26W-28W)<li>Semi-fitted; length measurements XXS 24\", XS 24-1/2\", S 25\", M 25-1/2\", L 26\", XL 26-1/2\", 1X 27\", 2X 27-1/2\", 3X 28\"<li>92% polyester/8% spandex<li>Machine wash, tumble dry<li>Made in Philippines/USA of imported fabric\r"
+		},
+		"PersonalizationTPL": "hello.tpl",
+		"SalesDiv": "QVC",
+		"BrandId": 2420,
+		"ScriptNbr": 11,
+		"FirstATSDate": "11/11/1986",
+		"SwatchInd": "True",
+		"ZoomInd": "True",
+		"BaseImageURL": "http://images-p.qvc.com/is/image/a/70/a198670",
+		"DefaultImageURLExt": ".001",
+		"moreInfoTabs": {
+			"tab": [
+				{
+					"name": "About Susan Graver",
+					"src": "Category",
+					"Text": "\r\t\thttp://www.qvc.com/footers/fa_about_susan_graver_new.html\r\t\t"
+				}, {
+					"name": "About the Fabric",
+					"src": "Category",
+					"Text": "\r\t\thttp://www.qvc.com/footers/fa_about_sg_fabrics.html\r\t\t"
+				}, {
+					"name": "Fashion Glossary",
+					"src": "Category",
+					"Text": "http://www.qvc.com/fa/fa_fashion_glossary.html"
+				}, {
+					"name": "Sizing",
+					"src": "Category",
+					"Text": "http://www.qvc.com/fa/fa_size_chart.html"
+				}
+			]
+		},
+		"productCategory": {
+			"id": "0000000",
+			"Text": "Other"
+		},
+		"StatusCodeDescription": "Success",
+		"StatusCodeText": "Status",
+		"SHDiscountText": "Special",
+		"MQDDiscountText": "Special",
+		"FreeFormMarketingText": "Best Seller",
+		"canonicalUrl": "http://www.qvc.com/.product.A198670.html",
+		"basePriceText": "100 ml",
+		"minBasePrice": 5.00,
+		"maxBasePrice": 8.00,
+		"responsecodetext": "Product data retrieved.",
+		"responsecodedescription": "SUCCESS_RETRIEVE_PRODUCT_DATA",
+		"responsecode": 5000,
+		"Response": {
+			"Name": "MSG_OK",
+			"Code": 0
+		},
+		"status": 200,
+		"moreInfo": ""
+	}
 }
