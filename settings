@@ -1,0 +1,287 @@
+{
+    "qWebServicesAppSettings": {
+        "App": [
+            {
+                "expires": "",
+                "name": "ANDROID1-7",
+                "Setting": [
+                    {
+                        "key": "ref",
+                        "value": "AND"
+                    },
+                    {
+                        "key": "wid",
+                        "value": "320"
+                    },
+                    {
+                        "key": "anchorx",
+                        "value": "0"
+                    },
+                    {
+                        "key": "countries-shipto",
+                        "value": [
+                            "US",
+                            null
+                        ]
+                    },
+                    {
+                        "key": "countries-billto",
+                        "value": [
+                            "US",
+                            null
+                        ]
+                    },
+                    {
+                        "key": "anchorx",
+                        "value": "0"
+                    },
+                    {
+                        "key": "url-productlist-format",
+                        "value": "http://www.qvc.com/qWebServices/%@&App=ANDROID1-7&OutputType=JSON&Version=3"
+                    },
+                    {
+                        "key": "url-panelcontent-format",
+                        "value": "http://www.qvc.com/qWebServices/%@&App=ANDROID1-7&OutputType=JSON&Version=3"
+                    },
+                    {
+                        "key": "url-video-main-rtsp-phone",
+                        "value": "rtsp://a1365.l9796847364.c97968.n.lq.akamaistream.net/D/1365/97968/v0001/reflector:47364/"
+                    },
+                    {
+                        "key": "url-video-main-hls-phone",
+                        "value": "http://qstream.qvc.com/segmenter/cellphone.m3u8"
+                    },
+                    {
+                        "key": "url-video-main-hls-tablet",
+                        "value": "http://qstream.qvc.com/segmenter/tablet.m3u8"
+                    },
+                    {
+                        "key": "url-homepage",
+                        "value": "http://www.qvc.com/qWebServices/Content.aspx?Panel=HOMEPAGE&App=ANDROID1-7&Version=3"
+                    },
+                    {
+                        "key": "url-categories",
+                        "value": "http://www.qvc.com/qWebServices/Content.aspx?Panel=CATEGORIES&App=ANDROID1-7&Version=3"
+                    },
+                    {
+                        "key": "url-more",
+                        "value": "http://www.qvc.com/qWebServices/Content.aspx?Panel=MORE&App=ANDROID1-7&Version=3"
+                    },
+                    {
+                        "key": "url-search",
+                        "value": "http://www.qvc.com/qWebServices/Search.aspx"
+                    },
+                    {
+                        "key": "url-productemail-format",
+                        "value": "http://www.qvc.com/webapp/wcs/stores/servlet/ProductDisplay?partNumber=%@&storeId=10251&cm_ven=MOBILE&cm_cat=ANDROID_APP&cm_pla=EMAIL_PRODUCT&cm_ite=%@"
+                    },
+                    {
+                        "key": "url-order-legacy",
+                        "value": "https://www.qvc.com/qWebServices/OrderV2.aspx"
+                    },
+                    {
+                        "key": "url-product-format",
+                        "value": "http://www.qvc.com/qWebServices/Product.aspx?Item=%@&NodeType=Detail%@"
+                    },
+                    {
+                        "key": "url-showlist",
+                        "value": "http://www.qvc.com/qWebServices/ShowList.aspx"
+                    },
+                    {
+                        "key": "url-showdetail",
+                        "value": "http://www.qvc.com/qWebServices/ShowDetail.aspx"
+                    },
+                    {
+                        "key": "url-review-format",
+                        "value": "http://www.qvc.com/qWebServices/Reviews.aspx?Item=%@"
+                    },
+                    {
+                        "key": "url-review-write",
+                        "value": "https://quality-s.qvc.com/qWebServices/Reviews.aspx"
+                    },
+                    {
+                        "key": "url-review-star-format",
+                        "value": "http://reviews.qvc.com/1689b/%@/5/rating.gif"
+                    },
+                    {
+                        "key": "url-image-path",
+                        "value": "http://images-p.qvc.com/is/image/%@/%@/%@%@%@"
+                    },
+                    {
+                        "key": "url-swatch-path",
+                        "value": "http://images-p.qvc.com/is/image/%@/%@/%@_%@.%@?%@"
+                    },
+                    {
+                        "key": "orderline",
+                        "value": "1-800-600-1129"
+                    },
+                    {
+                        "key": "img-thumb",
+                        "value": "$usthumb$"
+                    },
+                    {
+                        "key": "img-swatch",
+                        "value": "$usswatch$"
+                    },
+                    {
+                        "key": "img-small",
+                        "value": "$ussmall$"
+                    },
+                    {
+                        "key": "img-medium",
+                        "value": "$usmedium$"
+                    },
+                    {
+                        "key": "img-large",
+                        "value": "$uslarge$"
+                    },
+                    {
+                        "key": "img-extralarge",
+                        "value": "$usextralarge$"
+                    },
+                    {
+                        "key": "transparent-pixel",
+                        "value": "http://images-p.qvc.com/is/image/pic/newmedia/common/transparent-pixel.png?fmt=png-alpha"
+                    },
+                    {
+                        "key": "slider-oto-overlay-image",
+                        "value": "http://images-p.qvc.com/is/image/pic/newmedia/android/device/mob_badge_OTO.png?fmt=png-alpha"
+                    },
+                    {
+                        "key": "slider-tsv-overlay-image",
+                        "value": "http://images-p.qvc.com/is/image/pic/newmedia/android/device/mob_badge_TSV.png?fmt=png-alpha"
+                    },
+                    {
+                        "key": "slider-ioa-overlay-image",
+                        "value": "http://images-p.qvc.com/is/image/pic/newmedia/common/transparent-pixel.png?fmt=png-alpha"
+                    },
+                    {
+                        "key": "search-text",
+                        "value": "Enter item number or keyword(s)"
+                    },
+                    {
+                        "key": "StartGradientPG",
+                        "value": "240,240,240,1"
+                    },
+                    {
+                        "key": "EndGradientPG",
+                        "value": "240,240,240,1"
+                    },
+                    {
+                        "key": "StartGradientPGOnAir",
+                        "value": "154,217,114,1"
+                    },
+                    {
+                        "key": "EndGradientPGOnAir",
+                        "value": "97,153,51,1"
+                    },
+                    {
+                        "key": "StartGradientPGEvent",
+                        "value": "186,57,134,1"
+                    },
+                    {
+                        "key": "EndGradientPGEvent",
+                        "value": "148,29,94,1"
+                    },
+                    {
+                        "key": "general-terms",
+                        "value": "http://www.qvc.com/newmedia/android/device/terms.html"
+                    },
+                    {
+                        "key": "review-guidelines",
+                        "value": "http://www.qvc.com/newmedia/android/device/review_guidelines.html"
+                    },
+                    {
+                        "key": "community-standards",
+                        "value": "http://www.qvc.com/newmedia/android/device/community_standards.html"
+                    },
+                    {
+                        "key": "review-tips",
+                        "value": "http://www.qvc.com/newmedia/android/device/review_tips.html"
+                    },
+                    {
+                        "key": "QVCGiftCardDetails",
+                        "value": "http://www.qvc.com/newmedia/android/device/qvc_gift_card_details.html"
+                    },
+                    {
+                        "key": "ShippingInformation",
+                        "value": "http://www.qvc.com/newmedia/android/device/shipping_information.html"
+                    },
+                    {
+                        "key": "private-SHOW_ICON_URL",
+                        "value": "http://www.qvc.com/images/pgimage/{0}.jpg"
+                    },
+                    {
+                        "key": "class-sort-options",
+                        "sortclassby": [
+                            {
+                                "opt": [
+                                    {
+                                        "val": "0",
+                                        "value": "Featured"
+                                    },
+                                    {
+                                        "val": "1",
+                                        "value": "Best Sellers"
+                                    },
+                                    {
+                                        "val": "2",
+                                        "value": "What's New"
+                                    },
+                                    {
+                                        "val": "3",
+                                        "value": "Lowest Price"
+                                    },
+                                    {
+                                        "val": "4",
+                                        "value": "Highest Price"
+                                    },
+                                    {
+                                        "val": "5",
+                                        "value": "Product Name (A-Z)"
+                                    },
+                                    {
+                                        "val": "6",
+                                        "value": "Product Name (Z-A)"
+                                    },
+                                    {
+                                        "val": "7",
+                                        "value": "Customer Rating"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "CommerceAvailInd",
+                        "value": "Y"
+                    },
+                    {
+                        "key": "PDIncludeHtmlWrapper",
+                        "value": "http://www.qvc.com/newmedia/devices/pdincludes/wrapper.html"
+                    },
+                    {
+                        "key": "video-disclaimer",
+                        "value": "Because QVC's special offers are only available for a limited time, previously recorded videos may contain pricing, exclusivity claims or promotional offers that have expired."
+                    },
+                    {
+                        "key": "BillMeLaterTermsAndConditions",
+                        "value": "https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=PD4106KD&content=bmlweb/bmlwebtnc.html"
+                    },
+                    {
+                        "key": "EasyPayOffer",
+                        "value": "http://www.qvc.com/newmedia/devices/docs/easy_pay_offer.html"
+                    },
+                    {
+                        "key": "WhyAskPhone",
+                        "value": "http://www.qvc.com/newmedia/devices/docs/why_ask_phone.html"
+                    },
+                    {
+                        "key": "SecurityCodeHelp",
+                        "value": "http://www.qvc.com/newmedia/devices/docs/security_code_help.html"
+                    }
+                ]
+            }
+        ]
+    }
+}
