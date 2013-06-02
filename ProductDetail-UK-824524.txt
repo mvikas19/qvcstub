@@ -1,0 +1,108 @@
+{
+    "Product": {
+        "NodeType": "DETAIL",
+        "responsecodetext": "Product data retrieved.",
+        "ProductImageExtensions": "null",
+        "FreeFormMarketingText": "null",
+        "Availability": {
+            "OverallAvailabilityCode": "I",
+            "QTYLimit": "5",
+            "Available": "true",
+            "SizeCount": "4",
+            "ColorCount": "3",
+            "ProductAvailability": {
+                "colorCount": "3",
+                "sizeCount": "4",
+                "colorNamesShort": {
+                    "index_2": "Z2",
+                    "index_1": "BKH",
+                    "index_0": "JY"
+                },
+                "colorNames": {
+                    "index_2": "SAGE",
+                    "index_1": "PERIWINKLE",
+                    "index_0": "IVORY"
+                },
+                "sizeCodes": {
+                    "index_3": "HIZ",
+                    "index_2": "BCA",
+                    "index_1": "BCC",
+                    "index_0": "BCB"
+                },
+                "availabilityArray": {
+                    "availability": {
+                        "price_2": "70.80",
+                        "index_2": "I",
+                        "price_1": "70.80",
+                        "index_1": "I",
+                        "price_0": "70.80",
+                        "index_0": "I",
+                        "installAmount_2": "70.80",
+                        "installAmount_1": "70.80",
+                        "installAmount_0": "70.80",
+                        "qvcPrice_2": "0.00",
+                        "qvcPrice_1": "0.00",
+                        "qvcPrice_0": "0.00"
+                    }
+                },
+                "colorCodes": {
+                    "index_2": "Z2",
+                    "index_1": "BKH",
+                    "index_0": "JY"
+                },
+                "sizeNamesShort": {
+                    "index_3": "HIZ",
+                    "index_2": "BCA",
+                    "index_1": "BCC",
+                    "index_0": "BCB"
+                },
+                "sizeNames": {
+                    "index_3": "SUPER KING",
+                    "index_2": "SINGLE",
+                    "index_1": "KING SIZE",
+                    "index_0": "DOUBLE"
+                }
+            }
+        },
+        "PersonalizationTPL": "null",
+        "BulletText": "null",
+        "SpecialPriceHigh": "70.80",
+        "QvcPrice": "70.80",
+        "BrandId": "null",
+        "QvcPriceHigh": "78.00",
+        "RetailPrice": "0.00",
+        "ItemNumber": "824524",
+        "InternetSellingDescription": "Turn your bedroom into a luxurious haven with this stylish duvet set. It includes a printed duvet cover, a printed fitted sheet with deep pockets and complementary plain pillowcases (one in Single set). The design features a soft white floral print on a coloured background - choose Ivory, Sage or Periwinkle. Available in Single, Double, King or Super King. 100% cotton. Machine washable.",
+        "videoInfo": "null",
+        "SpecialPriceCode": "IP",
+        "SpecialPrice": "70.80",
+        "canonicalUrl": "null",
+        "CreditTerms": "0",
+        "ZoomInd": "false",
+        "ShortDesc": "Northern Nights Valentina Print 300 Thread Count Cotton Duvet",
+        "responsecodedescription": "SUCCESS_RETRIEVE_PRODUCT_DATA",
+        "ReviewCount": "0",
+        "status": "200",
+        "Response": {
+            "Name": "MSG_OK",
+            "Code": "0"
+        },
+        "MarketingText": "null",
+        "AvgProductRating": "0",
+        "ShippingHandlingCharge": "5.95",
+        "SalesDiv": "null",
+        "DefaultImageURLExt": ".noImage",
+        "specialPricePopUpURL": "null",
+        "BaseImageURL": "http://images-p.qvc.com/is/image/u2/noI",
+        "MQDPercent": "0.00",
+        "SpecialPriceText": "Introductory Price",
+        "ProductNbr": "824524",
+        "PrimaryClassCode": "5-362",
+        "ItemLimit": "5",
+        "responsecode": "5000",
+        "CreditTermsText": "Easy Pay instalments of",
+        "MQDAmount": "0.00",
+        "CurrentSellingPrice": "70.80",
+        "SwatchInd": "true"
+    }
+}
