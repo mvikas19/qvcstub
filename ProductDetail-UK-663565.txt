@@ -128,7 +128,7 @@
         },
         "PersonalizationTPL": "null",
         "BulletText": "null",
-        "SpecialPriceHigh": "15.43",
+        "SpecialPriceHigh": "18.43",
         "QvcPrice": "15.43",
         "BrandId": "null",
         "QvcPriceHigh": "17.00",
