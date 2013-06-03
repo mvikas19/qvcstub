@@ -161,7 +161,7 @@
         "ProductNbr": "663565",
         "ItemLimit": "5",
         "responsecode": "5000",
-        "CreditTermsText": "Easy Pay instalments of",
+        "CreditTermsText": "Easy Pay instalments of 30 for 8 months",
         "MQDAmount": "0.00",
         "CurrentSellingPrice": "15.43",
         "SwatchInd": "false"
