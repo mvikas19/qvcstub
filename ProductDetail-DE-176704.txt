@@ -73,7 +73,7 @@
         "QvcPriceHigh": "78.76",
         "RetailPrice": "25.25",
         "ItemNumber": "176704",
-        "InternetSellingDescription": "Der Trend erlaubt feminine Weite! Der KIM & CO. Rock aus Polyester-Jersey, in vier Bahnen, in A-Linie geschnitten und nach unten weiter fallend, zeigt die aktuelle Silhouette. Der Rock ist allover mit einem Blüten-Druck gemustert und hat einen Rundum-Dehnbund. Maße (Größe S) - 66 cm Taillenweite, 98 cm Hüftweite, 74,5 cm Länge inkl. Bund. Das Material: 92 % Polyester, 8 % Elasthan. Pflege von links: 30-Grad-Schonwäsche, separat waschen, liegend trocknen, 1 Punkt bügeln, keine Reinigung,
+        "InternetSellingDescription": "Der Trend erlaubt feminine Weite! Der KIM & CO. Rock aus Polyester-Jersey, in vier Bahnen, in A-Linie geschnitten und nach unten weiter fallend, zeigt die aktuelle Silhouette. Der Rock ist allover mit einem Blüten-Druck gemustert und hat einen Rundum-Dehnbund. Maße (Größe S) - 66 cm Taillenweite, 98 cm Hüftweite, 74,5 cm Länge inkl. Bund. Das Material: 92 % Polyester, 8 % Elasthan. Pflege von links: 30-Grad-Schonwäsche, separat waschen, liegend trocknen, 1 Punkt bügeln, keine Reinigung",
         "videoInfo": "null",
         "SpecialPriceCode": "OP",
         "SpecialPrice": "30",
