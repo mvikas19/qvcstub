@@ -81,6 +81,8 @@
         "CreditTerms": "0",
         "ZoomInd": "false",
         "ShortDesc": "KIM & CO. Polyester Jersey Rock ca.74,5cm Rundumdehnbund A-Linie",
+        "MinBasePrice": 40.00,
+    	"MaxBasePrice": 140.00,
         "responsecodedescription": "SUCCESS_RETRIEVE_PRODUCT_DATA",
         "ReviewCount": "0",
         "status": "200",
