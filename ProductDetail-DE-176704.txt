@@ -90,7 +90,7 @@
             "Name": "MSG_OK",
             "Code": "0"
         },
-        "MarketingText": "null",
+        "MarketingText": "New",
         "AvgProductRating": "0",
         "ShippingHandlingCharge": "5.95",
         "SalesDiv": "null",
@@ -98,7 +98,7 @@
         "specialPricePopUpURL": "null",
         "BaseImageURL": "http://images-p.qvc.com/is/image/d2/1/04/176704",
         "MQDPercent": "0.00",
-        "SpecialPriceText": "null",
+        "SpecialPriceText": "OneTime",
         "ProductNbr": "176704",
         "PrimaryClassCode": "14908569-2319",
         "ItemLimit": "5",
